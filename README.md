@@ -68,4 +68,6 @@ Link of EPS 1-3: https://github.com/kayndrigs/Rodrigo-End-to-End-Data-Portfolio.
 - Created 3 tables for CONS_OFAC dataset (PRIM, ATL, ADD)
 - Built and Deployed SSIS Package to SSMS
 - (pending) deployment to SQL Server Agent
+
+
   
