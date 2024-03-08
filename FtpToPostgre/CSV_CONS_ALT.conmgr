@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="CSV_CONS_ALT"
+  DTS:DTSID="{62693ABE-2413-4C46-8DC2-6317B7FC3F13}"
+  DTS:CreationName="FLATFILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:Format="Delimited"
+      DTS:LocaleID="1033"
+      DTS:HeaderRowDelimiter="_x000D__x000A_"
+      DTS:ColumnNamesInFirstDataRow="True"
+      DTS:RowDelimiter=""
+      DTS:TextQualifier="_x003B_"
+      DTS:CodePage="1252"
+      DTS:ConnectionString="C:\Users\kaynerodrigo\Documents\Side Quests\JoshDev\SSIS\FtpToPostgre\Extracts\CONS_ALT.CSV">
+      <DTS:FlatFileColumns>
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x002C_"
+          DTS:DataType="3"
+          DTS:TextQualified="True"
+          DTS:ObjectName="ent_num"
+          DTS:DTSID="{28D39014-7B27-4661-B543-6C3CAAC68F0F}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x002C_"
+          DTS:DataType="3"
+          DTS:TextQualified="True"
+          DTS:ObjectName="alt_num"
+          DTS:DTSID="{16D642FC-F191-4CC3-8BC0-00F974EC1A3D}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x002C_"
+          DTS:MaximumWidth="8"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="alt_type"
+          DTS:DTSID="{0CE8E2C8-3D81-48D2-851B-5A8DE4B6B62B}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x002C_"
+          DTS:MaximumWidth="350"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="alt_name"
+          DTS:DTSID="{8F9CF4C0-1937-490B-A4BC-1D32BDD427B5}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x000D__x000A_"
+          DTS:MaximumWidth="200"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="alt_remarks"
+          DTS:DTSID="{E75DE383-994E-4A05-897B-50BC61C4EB9C}"
+          DTS:CreationName="" />
+      </DTS:FlatFileColumns>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
