@@ -65,7 +65,7 @@ Link of EPS 1-3: https://github.com/kayndrigs/Rodrigo-End-to-End-Data-Portfolio.
 - Transferred Vsftpd Flat Files to Local Directory
 - Created ODBC Connection for Postgresql in ODBC Data Source Administrator
 - Loaded local Flat Files to Postgresql DB through SSIS
-- Created 3 tables for CONS_OFAC dataset (PRIM, ATL, ADD)
+- Created 3 tables for CONS_OFAC dataset (PRIM, ALT, ADD)
 - Built and Deployed SSIS Package to SSMS
 - (pending) deployment to SQL Server Agent
 
