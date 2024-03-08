@@ -70,4 +70,8 @@ Link of EPS 1-3: https://github.com/kayndrigs/Rodrigo-End-to-End-Data-Portfolio.
 - (pending) deployment to SQL Server Agent
 
 
-  
+![Screenshot 2024-03-08 153435](https://github.com/kayndrigs/Rodrigo_FtpToPostgre/assets/103131412/5ed7184e-067e-411b-9830-1bf543d16f91)
+![Screenshot 2024-03-08 151715](https://github.com/kayndrigs/Rodrigo_FtpToPostgre/assets/103131412/441f88d9-0513-4242-a01e-ce6fa7679b2b)
+![Screenshot 2024-03-08 151710](https://github.com/kayndrigs/Rodrigo_FtpToPostgre/assets/103131412/1e0f8df6-ca74-4bc0-b1d8-eb255a6e3b7e)
+![Screenshot 2024-03-08 151722](https://github.com/kayndrigs/Rodrigo_FtpToPostgre/assets/103131412/275de39e-fae1-40e9-adfa-2028ca76926d)
+![Screenshot 2024-03-08 153537](https://github.com/kayndrigs/Rodrigo_FtpToPostgre/assets/103131412/eb7297df-bb45-4071-9f9c-7e7da732f2d5)
